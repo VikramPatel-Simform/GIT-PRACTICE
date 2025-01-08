@@ -2,3 +2,6 @@ Lion
 Tiger
 Elephant
 Horse
+Panther
+Jaguar
+Koala
