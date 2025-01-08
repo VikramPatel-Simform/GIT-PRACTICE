@@ -4,3 +4,5 @@ git push <remote_repo> <branch> -> to push to remote repo.
 git pull <remote_repo> <branch> -> to pull specific branch.
 git merge <branch> -> For merging the branch into current branch.
 git rebase <branch> -> Used to rebase the branch into current branch.
+git cherry-pick <commit_id> -> Used to add the specific commit to branch from another branch.
+
